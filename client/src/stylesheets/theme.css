@@ -1,0 +1,25 @@
+:root{
+    --primary: #0f3460;
+    --secondary: #ff5722;
+    --success: #4caf50;
+    --info: #00bcd4;
+    --warning: #ff9800;
+    --danger: #f44336;
+    --light: #f1f1f1;
+    --dark: #212121;
+}
+.bg-primary{
+    background-color: var(--primary) !important;
+}
+
+.bg-white{
+    background-color: whitesmoke;
+}
+
+.bg-success{
+    background-color: rgb(78, 220, 78);
+}
+
+.bg-error{
+    background-color: rgb(220, 50, 50);
+}
